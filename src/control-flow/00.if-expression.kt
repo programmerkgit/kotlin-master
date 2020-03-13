@@ -1,3 +1,5 @@
+package if00
+
 val a = 1
 val b = 2;
 val c = if (a < b) {
@@ -8,5 +10,8 @@ val c = if (a < b) {
     a;
 }
 
-if ( a < b )
-println("d")
+fun main() {
+    if (a < b) {
+        println("d")
+    }
+}
