@@ -1,4 +1,5 @@
 fun main() {
+    println(a())
     listOf(1, 2, 3, 4, 5).forEach {
         if (it == 3) return // return from main.
         println(it)
@@ -23,11 +24,17 @@ fun main() {
     print(" done with anonymous function")
 
     run label@{
-        listOf<Number>(1,2,3,4,5).forEach {
+        listOf<Number>(1, 2, 3, 4, 5).forEach {
             if (it == 3) {
                 return@label
             }
             println(it)
         }
+    }
+}
+
+fun a(): Int {
+    return run b@{
+        return@b 1
     }
 }
