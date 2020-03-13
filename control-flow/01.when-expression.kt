@@ -1,5 +1,4 @@
 import jdk.nashorn.internal.ir.RuntimeNode
-import kotlin.reflect.jvm.internal.impl.load.java.JavaClassFinder
 
 fun main() {
     val a: Int = 12
@@ -14,8 +13,7 @@ fun main() {
         else -> println("else")
     }
 /* no argument */
-
-    when {
+    when() {
         a.isOdd() -> println("a is odd")
         a.isEven() -> println("a is even")
         else -> println("x is funny")

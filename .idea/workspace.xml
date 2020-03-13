@@ -2,31 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/arrays/00.create.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/arrays/00.create.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/arrays/01.primitive-array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/arrays/01.primitive-array.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/booleans/00.bool-operations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/booleans/00.bool-operations.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/characters/00.char.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/characters/00.char.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/characters/01.char-toint.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/characters/01.char-toint.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/numberes/00.numbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/numberes/00.numbers.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/numberes/01.literal-numbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/numberes/01.literal-numbers.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/numberes/02.boxing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/numberes/02.boxing.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/numberes/03.boxing-equality.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/numberes/03.boxing-equality.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/numberes/04.explicit-conversion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/numberes/04.explicit-conversion.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/numberes/05.conversion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/numberes/05.conversion.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/numberes/06.bitwise-perator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/numberes/06.bitwise-perator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/numberes/07.comparision.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic-types/numberes/07.comparision.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/00.if-expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/control-flow/00.if-expression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/01.when-expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/control-flow/01.when-expression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions-lambda/functions/00.declarations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions-lambda/functions/00.declarations.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions-lambda/functions/01.member-function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions-lambda/functions/01.member-function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions-lambda/functions/02.arguments.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions-lambda/functions/02.arguments.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getting-started/00.package-definition.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/getting-started/00.package-definition.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getting-started/01.main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/getting-started/01.main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getting-started/02.install.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/getting-started/02.install.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getting-started/03.kotlin-script.kts" beforeDir="false" afterPath="$PROJECT_DIR$/src/getting-started/03.kotlin-script.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/getting-started/03.kotlin-script.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/arrays/00.create.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/arrays/00.create.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/arrays/01.primitive-array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/arrays/01.primitive-array.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/booleans/00.bool-operations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/booleans/00.bool-operations.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/characters/00.char.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/characters/00.char.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/characters/01.char-toint.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/characters/01.char-toint.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/00.numbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/00.numbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/01.literal-numbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/01.literal-numbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/02.boxing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/02.boxing.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/03.boxing-equality.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/03.boxing-equality.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/04.explicit-conversion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/04.explicit-conversion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/05.conversion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/05.conversion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/06.bitwise-perator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/06.bitwise-perator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/07.comparision.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/07.comparision.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control-flow/00.if-expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/00.if-expression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control-flow/01.when-expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/01.when-expression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functions-lambda/functions/00.declarations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/functions/00.declarations.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functions-lambda/functions/01.member-function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/functions/01.member-function.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functions-lambda/functions/02.arguments.kt" beforeDir="false" afterPath="$PROJECT_DIR$/functions/02.arguments.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getting-started/00.package-definition.kt" beforeDir="false" afterPath="$PROJECT_DIR$/getting-started/00.package-definition.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getting-started/01.main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/getting-started/01.main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getting-started/02.install.kt" beforeDir="false" afterPath="$PROJECT_DIR$/getting-started/02.install.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getting-started/03.kotlin-script.kts" beforeDir="false" afterPath="$PROJECT_DIR$/getting-started/03.kotlin-script.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/control-flow" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/control-flow" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -107,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584119386346</updated>
       <workItem from="1584119387674" duration="525000" />
-      <workItem from="1584120417479" duration="590000" />
+      <workItem from="1584120417479" duration="1650000" />
     </task>
     <servers />
   </component>
@@ -115,25 +124,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1584121062259">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1584122147897">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1584121062259" />
-    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1584121062257">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1584122147897" />
+    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1584122147896">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1584121062257" />
-    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1584121062254">
+    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1584122147896" />
+    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1584122147896">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1584121062254" />
-    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1584121062258">
+    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1584122147896" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1584122147897">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1584121062258" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1584122147897" />
     <state x="1576" y="566" key="com.intellij.ide.util.TipDialog" timestamp="1584120487292">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1576" y="566" key="com.intellij.ide.util.TipDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1584120487292" />
+    <state x="1709" y="656" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584121334264">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1709" y="656" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1417@0.23.2560.1417" timestamp="1584121334264" />
   </component>
 </project>
