@@ -12,6 +12,6 @@ fun main() {
 
     val b = B()
     println(b::class === B::class)
-    val d = b::class
+    val d: B = b::class()
     println(d)
 }
