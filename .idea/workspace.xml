@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/classes/06.constructor-property.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KonanWorkspace">
+    <executables />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -33,21 +34,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/control-flow" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/classes" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classes" />
+      <recent name="$PROJECT_DIR$/control-flow" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/more" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/control-flow" />
+      <recent name="$PROJECT_DIR$/more" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -98,6 +100,8 @@
       <workItem from="1584119387674" duration="525000" />
       <workItem from="1584120417479" duration="1855000" />
       <workItem from="1584155843344" duration="2650000" />
+      <workItem from="1584241908879" duration="721000" />
+      <workItem from="1586578009838" duration="2404000" />
     </task>
     <servers />
   </component>
@@ -121,13 +125,17 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1584174411241" />
-    <state x="1576" y="566" key="com.intellij.ide.util.TipDialog" timestamp="1584120487292">
+    <state x="1576" y="566" key="com.intellij.ide.util.TipDialog" timestamp="1586578015827">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1576" y="566" key="com.intellij.ide.util.TipDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1584120487292" />
+    <state x="1576" y="566" key="com.intellij.ide.util.TipDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1586578015827" />
     <state x="1709" y="656" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584121334264">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1709" y="656" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1417@0.23.2560.1417" timestamp="1584121334264" />
+    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1586579863139">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1586579863139" />
   </component>
 </project>
