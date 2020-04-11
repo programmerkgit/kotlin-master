@@ -1,5 +1,8 @@
 /**
- * Arrays in Kotlin are represented by the Array class, that has get and set functions (that turn into [] by operator overloading conventions), and size property, along with a few other useful member functions:
+ * Arrays in Kotlin are represented by the Array class,
+ * that has get and set functions (that turn into [] by operator
+ * overloading conventions), and size property, along with a
+ * few other useful member functions:
 
 class Array<T> private constructor() {
 val size: Int
@@ -18,10 +21,13 @@ val asc = Array(5) { i -> (i * i).toString() }
 asc.forEach { println(it) }
  */
 
-val arr = arrayOf(1, 2, 3)
-val nullArr = arrayOfNulls<Int?>(5)
-val a: Int = nullArr[1]!!
+fun main() {
+    /* can create array by arrayOf */
+    val arr = arrayOf(1, 2, 3)
+    // Creates an Array<String> with values ["0", "1", "4", "9", "16"]
+    val doubled = Array(5) { i -> (i * i).toString() }
+    doubled.forEach { println(it) }
 
-// Creates an Array<String> with values ["0", "1", "4", "9", "16"]
-val asc = Array(5) { i -> (i * i).toString() }
-asc.forEach { println(it) }
+    /* array has size property */
+    println("Size of dobuled is ${doubled.size}")
+}
