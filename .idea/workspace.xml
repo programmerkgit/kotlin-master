@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classes/06.constructor-property.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/a.jar" beforeDir="false" afterPath="$PROJECT_DIR$/classes/a.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
       <recent name="$PROJECT_DIR$/control-flow" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classes" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/more" />
@@ -101,7 +102,7 @@
       <workItem from="1584120417479" duration="1855000" />
       <workItem from="1584155843344" duration="2650000" />
       <workItem from="1584241908879" duration="721000" />
-      <workItem from="1586578009838" duration="2404000" />
+      <workItem from="1586578009838" duration="5268000" />
     </task>
     <servers />
   </component>
