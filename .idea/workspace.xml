@@ -3,23 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/00.define-class.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/01.empty-class.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/02.constructor-init-order.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/03.secondary-constructor.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/04.init-order.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/05.visiblility-constructor.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/06.constructor-property.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/07.implicit-primary-constructor-delegation.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/08.class-members.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/09.inheritable-class.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/10.derived-class-constructor.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/11.methods-override.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/12.call-outermethods-from-innter-class.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/13.duplicated-overriden.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/14.orveride-by-abstract.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/99.yet-to-read.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/a.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +101,7 @@
       <workItem from="1584120417479" duration="1855000" />
       <workItem from="1584155843344" duration="2650000" />
       <workItem from="1584241908879" duration="721000" />
-      <workItem from="1586578009838" duration="7398000" />
+      <workItem from="1586578009838" duration="8395000" />
     </task>
     <servers />
   </component>
