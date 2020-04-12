@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/files/04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stdlib/io/06.readLines.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file-io-targets/02.append-text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file-io-targets/03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/03.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_00_printKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_00_printKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_02_append_textKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_02_append_textKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_03_bufferedReaderKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_03_bufferedReaderKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stdlib/io/02.append-text.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/stdlib/io/02.append-text.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/stdlib/io/03.bufferedReader.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/stdlib/io/03.bufferedReader.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/classes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/stdlib/io" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -44,30 +51,21 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/stdlib/io" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/classes" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/more" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/stdlib/io" />
+      <recent name="$PROJECT_DIR$/files" />
+      <recent name="$PROJECT_DIR$/file-io-targets" />
       <recent name="$PROJECT_DIR$/classes" />
       <recent name="$PROJECT_DIR$/control-flow" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._03_bufferedReaderKt">
-    <configuration name="_00_printKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="stlidb.io._00_printKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._05_forEachLineKt">
     <configuration name="_01_printlnKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
@@ -76,19 +74,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="stdlib.io._01_printlnKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_01_printlnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="stlidb.io._01_printlnKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,13 +105,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_04_readerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-master" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="stdlib.io._04_readerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05_forEachLineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-master" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="stdlib.io._05_forEachLineKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._05_forEachLineKt" />
+        <item itemvalue="Kotlin._04_readerKt" />
         <item itemvalue="Kotlin._03_bufferedReaderKt" />
         <item itemvalue="Kotlin._02_append_textKt" />
         <item itemvalue="Kotlin._01_printlnKt (1)" />
-        <item itemvalue="Kotlin._01_printlnKt" />
-        <item itemvalue="Kotlin._00_printKt" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +179,7 @@
       <workItem from="1586624365383" duration="29000" />
       <workItem from="1586624419013" duration="105000" />
       <workItem from="1586624568878" duration="2851000" />
-      <workItem from="1586665055535" duration="3490000" />
+      <workItem from="1586665055535" duration="6885000" />
     </task>
     <servers />
   </component>
@@ -180,22 +191,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1520" y="397" key="#Project_Structure/0.23.2560.1417@0.23.2560.1417" timestamp="1586665317807" />
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1586668963007">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1586690478805">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1586668963007" />
-    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1586668963006">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1586690478805" />
+    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1586690478804">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1586668963006" />
-    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1586668963005">
+    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1586690478804" />
+    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1586690478804">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1586668963005" />
-    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1586668963006">
+    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1586690478804" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1586690478805">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1586668963006" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1586690478805" />
     <state x="1576" y="566" key="com.intellij.ide.util.TipDialog" timestamp="1586624523868">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
@@ -204,9 +215,9 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1709" y="656" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1417@0.23.2560.1417" timestamp="1584121334264" />
-    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1586579863139">
+    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1586688594820">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1586579863139" />
+    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1586688594820" />
   </component>
 </project>
