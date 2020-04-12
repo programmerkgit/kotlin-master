@@ -1,3 +1,5 @@
+package classAndObjects.classes
+
 fun main() {
     open class OuterC {
         open fun doSome() {

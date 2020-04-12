@@ -1,3 +1,5 @@
+package classAndObjects.propAndFields
+
 fun main() {
     class A {
         var a: Int = 10

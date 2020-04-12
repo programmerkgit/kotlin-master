@@ -1,3 +1,5 @@
+package classAndObjects.classes
+
 fun main() {
     /* secondry constructor is overload and delegate to primary by :this() */
     class Person(val name: String) {

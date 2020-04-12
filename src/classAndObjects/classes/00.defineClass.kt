@@ -1,3 +1,4 @@
+package classAndObjects.classes
 fun main() {
     class Invoice {
         fun a() {

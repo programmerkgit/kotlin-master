@@ -1,3 +1,5 @@
+package classAndObjects.classes
+
 fun main() {
     open class BaseClass(val a: Int) {
 

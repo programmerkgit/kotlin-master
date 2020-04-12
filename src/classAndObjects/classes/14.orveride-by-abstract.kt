@@ -1,3 +1,5 @@
+package classAndObjects.classes
+
 open class Polygon {
     open fun draw() {
         println("drawed")

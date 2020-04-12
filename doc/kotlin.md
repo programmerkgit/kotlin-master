@@ -65,12 +65,12 @@ class A {
     fun functionA() {
     }   
 }
-class B {
+class classAndObjects.classes.B {
     fun functionB(){
     }
 }
 
-class C(a: A, b: B): A by a, B by b {
+class C(a: A, b: classAndObjects.classes.B): A by a, classAndObjects.classes.B by b {
     fun C() {
         functionA()
         functionB()
@@ -84,6 +84,6 @@ Sealed class is restricted classes like Enum.
 ```kotlin
 sealed class Seal
 class A: Seal
-class B: Seal
+class classAndObjects.classes.B: Seal
 
 ```

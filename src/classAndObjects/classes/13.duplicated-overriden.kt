@@ -1,6 +1,8 @@
+package classAndObjects.classes
+
 open interface B {
     open fun a() {
-        println("B.a")
+        println("classAndObjects.classes.B.a")
     }
 }
 

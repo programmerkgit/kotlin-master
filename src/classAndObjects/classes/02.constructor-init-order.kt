@@ -1,3 +1,5 @@
+package classAndObjects.classes
+
 fun main() {
     /* primary constructor. val, var parameters are properties */
     class A(val a: Int) {

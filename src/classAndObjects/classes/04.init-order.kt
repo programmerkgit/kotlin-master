@@ -1,3 +1,5 @@
+package classAndObjects.classes
+
 fun main() {
     class InitOrder(a: String, b: Int) {
         val firstProp = "First Prop $a".also(::println)

@@ -1,3 +1,5 @@
+package classAndObjects.propAndFields
+
 fun main() {
     /* var propName[: PropType] [= propInitializer]
     * [getter]
