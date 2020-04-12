@@ -34,21 +34,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/classes" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/classes" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/more" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/classes" />
       <recent name="$PROJECT_DIR$/control-flow" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/classes" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/more" />
-    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin._02_append_textKt">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
@@ -62,8 +65,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_00_printKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-master" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="stlidb.io._00_printKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_printlnKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-master" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="stdlib.io._01_printlnKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_printlnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-master" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="stlidb.io._01_printlnKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_append_textKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-master" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="stdlib.io._02_append_textKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._02_append_textKt" />
+        <item itemvalue="Kotlin._01_printlnKt (1)" />
+        <item itemvalue="Kotlin._01_printlnKt" />
+        <item itemvalue="Kotlin._00_printKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
@@ -105,7 +164,8 @@
       <workItem from="1586624253538" duration="110000" />
       <workItem from="1586624365383" duration="29000" />
       <workItem from="1586624419013" duration="105000" />
-      <workItem from="1586624568878" duration="2384000" />
+      <workItem from="1586624568878" duration="2851000" />
+      <workItem from="1586665055535" duration="1467000" />
     </task>
     <servers />
   </component>
@@ -113,22 +173,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1584174411242">
+    <state x="1520" y="397" key="#Project_Structure" timestamp="1586665317807">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1584174411242" />
-    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1584174411241">
+    <state x="1520" y="397" key="#Project_Structure/0.23.2560.1417@0.23.2560.1417" timestamp="1586665317807" />
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1586666490053">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1584174411241" />
-    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1584174411240">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1586666490053" />
+    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1586666490052">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1584174411240" />
-    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1584174411241">
+    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1586666490052" />
+    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1586666490052">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1584174411241" />
+    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1586666490052" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1586666490053">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1586666490053" />
     <state x="1576" y="566" key="com.intellij.ide.util.TipDialog" timestamp="1586624523868">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
