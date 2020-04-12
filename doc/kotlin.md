@@ -61,16 +61,16 @@ class MyActivity: AppCOmpatActivity(), Toaster {
 Easy way to implement by passing delegation class.  
   
 ```kotlin
-class A {
+class functionsAndLambdas.functions.AunctionsAndLambdas.functions.A {
     fun functionA() {
     }   
 }
-class classAndObjects.classes.B {
+class classAndObjects.classes.functionsAndLambdas.functions.B {
     fun functionB(){
     }
 }
 
-class C(a: A, b: classAndObjects.classes.B): A by a, classAndObjects.classes.B by b {
+class C(a: functionsAndLambdas.functions.AunctionsAndLambdas.functions.A, b: classAndObjects.classes.functionsAndLambdas.functions.B): functionsAndLambdas.functions.AunctionsAndLambdas.functions.A by a, classAndObjects.classes.functionsAndLambdas.functions.B by b {
     fun C() {
         functionA()
         functionB()
@@ -83,7 +83,7 @@ class C(a: A, b: classAndObjects.classes.B): A by a, classAndObjects.classes.B b
 Sealed class is restricted classes like Enum. 
 ```kotlin
 sealed class Seal
-class A: Seal
-class classAndObjects.classes.B: Seal
+class functionsAndLambdas.functions.AunctionsAndLambdas.functions.A: Seal
+class classAndObjects.classes.functionsAndLambdas.functions.B: Seal
 
 ```

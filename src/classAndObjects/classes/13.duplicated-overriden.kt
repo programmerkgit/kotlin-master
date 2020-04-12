@@ -2,14 +2,14 @@ package classAndObjects.classes
 
 open interface B {
     open fun a() {
-        println("classAndObjects.classes.B.a")
+        println("classAndObjects.classes.functionsAndLambdas.functions.B.a")
     }
 }
 
 fun main() {
     open class A {
         open fun a() {
-            println("A.a")
+            println("functionsAndLambdas.functions.AunctionsAndLambdas.functions.A.a")
         }
     }
 

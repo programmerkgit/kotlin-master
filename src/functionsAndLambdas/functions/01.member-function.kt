@@ -1,6 +1,5 @@
-class A {
+package functionsAndLambdas.functions
 
-}
 
 fun main() {
     /* member function */
