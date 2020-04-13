@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/numberes/00.numbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/00.numbers.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/numberes/04.explicit-conversion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/04.explicit-conversion.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/kotlin.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/kotlin.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/00.declarations.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/01.member-function.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/02.arguments.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classAndObjects/classes/13.duplicated-overriden.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/classes/13.duplicated-overriden.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stdlib/io/03.bufferedReader.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/stdlib/io/03.bufferedReader.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +63,7 @@
       <recent name="$PROJECT_DIR$/control-flow" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._02_functionWithReceiverKt">
+  <component name="RunManager" selected="Kotlin._02_importsKt">
     <configuration name="_00_higherOrderFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
@@ -82,6 +72,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="functionsAndLambdas.lambdas._00_higherOrderFunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_defaultImportsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-master" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="basics.packagesAndImports.kt._01_defaultImportsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,27 +116,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_singleExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_02_importsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="functionsAndLambdas.functions._03_singleExpressionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_04_varargsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="functionsAndLambdas.functions._04_varargsKt" />
+      <option name="MAIN_CLASS_NAME" value="basics.packagesAndImports.kt._02_importsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._02_importsKt" />
+        <item itemvalue="Kotlin._01_defaultImportsKt" />
         <item itemvalue="Kotlin._02_functionWithReceiverKt" />
         <item itemvalue="Kotlin._01_functionTypesKt" />
         <item itemvalue="Kotlin._00_higherOrderFunctionsKt" />
-        <item itemvalue="Kotlin._04_varargsKt" />
-        <item itemvalue="Kotlin._03_singleExpressionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +177,8 @@
       <workItem from="1586624365383" duration="29000" />
       <workItem from="1586624419013" duration="105000" />
       <workItem from="1586624568878" duration="2851000" />
-      <workItem from="1586665055535" duration="12062000" />
+      <workItem from="1586665055535" duration="14356000" />
+      <workItem from="1586787982007" duration="1795000" />
     </task>
     <servers />
   </component>
@@ -199,22 +190,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1520" y="397" key="#Project_Structure/0.23.2560.1417@0.23.2560.1417" timestamp="1586665317807" />
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1586700664045">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1586789994965">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1586700664045" />
-    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1586700664044">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1586789994965" />
+    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1586789994964">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1586700664044" />
-    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1586700664043">
+    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1586789994964" />
+    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1586789994963">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1586700664043" />
-    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1586700664044">
+    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1586789994963" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1586789994964">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1586700664044" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1586789994964" />
     <state x="1650" y="470" width="540" height="524" key="StructurePopup" timestamp="1586690511848">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
