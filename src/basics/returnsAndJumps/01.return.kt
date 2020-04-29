@@ -20,7 +20,7 @@ fun main() {
     }
 
     listOf(1, 2).forEach { _ ->
-        return // return from moreLanguageConstructs.moreLanguageConstructs.main because lambed is not function.
+        return // return from moreLanguageConstructs.moreLanguageConstructs.moreLanguageConstructs.reference.main because lambed is not function.
     }
-    println("end of moreLanguageConstructs.moreLanguageConstructs.main")
+    println("end of moreLanguageConstructs.moreLanguageConstructs.moreLanguageConstructs.reference.main")
 }

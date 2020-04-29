@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/02.break.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/03.continue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/04.label.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-types/numberes/04.explicit-conversion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/04.explicit-conversion.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/kotlin.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/kotlin.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/packagesAndImports.kt/02.imports.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/packagesAndImports.kt/02.imports.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classAndObjects/classes/13.duplicated-overriden.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/classes/13.duplicated-overriden.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classAndObjects/generics/02.out.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/generics/02.out.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/returnsAndJumps/01.return.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/01.return.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/returnsAndJumps/04.label.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/04.label.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/moreLanguageConstructs/01.destructingDeclaration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/moreLanguageConstructs/01.destructingDeclaration.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stdlib/io/03.bufferedReader.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/stdlib/io/03.bufferedReader.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visibilityModifier/01.insideClassModifier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/visibilityModifier/01.insideClassModifier.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +188,7 @@
       <workItem from="1586971766113" duration="830000" />
       <workItem from="1587001858869" duration="660000" />
       <workItem from="1588125791170" duration="442000" />
-      <workItem from="1588177131233" duration="2797000" />
+      <workItem from="1588177131233" duration="3622000" />
     </task>
     <servers />
   </component>
@@ -216,22 +204,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1707" y="454" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1586889021233" />
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1588179907541">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1588180047524">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1588179907541" />
-    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1588179907540">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1588180047524" />
+    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1588180047523">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1588179907540" />
-    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1588179907539">
+    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1588180047523" />
+    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1588180047523">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1588179907539" />
-    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1588179907541">
+    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1588180047523" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1588180047524">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1588179907541" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1588180047524" />
     <state x="1429" y="370" key="SettingsEditor" timestamp="1586886872976">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
