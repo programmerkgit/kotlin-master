@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/02.break.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/03.continue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/04.label.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-types/numberes/04.explicit-conversion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-types/numberes/04.explicit-conversion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/kotlin.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/kotlin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/packagesAndImports.kt/02.imports.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/packagesAndImports.kt/02.imports.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classAndObjects/classes/13.duplicated-overriden.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/classes/13.duplicated-overriden.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classAndObjects/generics/02.out.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/generics/02.out.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moreLanguageConstructs/01.destructingDeclaration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/moreLanguageConstructs/01.destructingDeclaration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stdlib/io/03.bufferedReader.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/stdlib/io/03.bufferedReader.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visibilityModifier/01.insideClassModifier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/visibilityModifier/01.insideClassModifier.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +55,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/collection/map" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/basics/returnsAndJumps" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/collection/map" />
-      <recent name="$PROJECT_DIR$/src/stdlib/io" />
-      <recent name="$PROJECT_DIR$/files" />
-      <recent name="$PROJECT_DIR$/file-io-targets" />
-      <recent name="$PROJECT_DIR$/classes" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/classAndObjects/interface" />
       <recent name="$PROJECT_DIR$/src/functionsAndLambdas/functions" />
@@ -62,34 +69,15 @@
       <recent name="$PROJECT_DIR$/src/stdlib/io" />
       <recent name="$PROJECT_DIR$/classes" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/basics/returnsAndJumps" />
+      <recent name="$PROJECT_DIR$/src/collection/map" />
+      <recent name="$PROJECT_DIR$/src/stdlib/io" />
+      <recent name="$PROJECT_DIR$/files" />
+      <recent name="$PROJECT_DIR$/file-io-targets" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin._01_destructingDeclarationKt">
-    <configuration name="_00_pairKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collection.pair._00_pairKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_01_copyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collection.pair._01_copyKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._04_equalityKt">
     <configuration name="_01_destructingDeclarationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
@@ -103,27 +91,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_objectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_01_returnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classAndObjects.interface._02_objectKt" />
+      <option name="MAIN_CLASS_NAME" value="basics.returnsAndJumps._01_returnKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_toListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_03_continueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="collection.pair._02_toListKt" />
+      <option name="MAIN_CLASS_NAME" value="basics.returnsAndJumps._03_continueKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04_equalityKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-master" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="moreLanguageConstructs._04_equalityKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04_labelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-master" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="basics.returnsAndJumps._04_labelKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._04_equalityKt" />
         <item itemvalue="Kotlin._01_destructingDeclarationKt" />
-        <item itemvalue="Kotlin._02_objectKt" />
-        <item itemvalue="Kotlin._02_toListKt" />
-        <item itemvalue="Kotlin._01_copyKt" />
-        <item itemvalue="Kotlin._00_pairKt" />
+        <item itemvalue="Kotlin._01_returnKt" />
+        <item itemvalue="Kotlin._04_labelKt" />
+        <item itemvalue="Kotlin._03_continueKt" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +199,8 @@
       <workItem from="1586886651058" duration="2830000" />
       <workItem from="1586971766113" duration="830000" />
       <workItem from="1587001858869" duration="660000" />
-      <workItem from="1588125791170" duration="308000" />
+      <workItem from="1588125791170" duration="442000" />
+      <workItem from="1588177131233" duration="2797000" />
     </task>
     <servers />
   </component>
@@ -201,22 +216,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1707" y="454" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1586889021233" />
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1588125950318">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1588179907541">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1588125950318" />
-    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1588125950317">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1588179907541" />
+    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1588179907540">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1588125950317" />
-    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1588125950316">
+    <state width="1238" height="408" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1588179907540" />
+    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1588179907539">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1588125950316" />
-    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1588125950317">
+    <state width="1238" height="408" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1588179907539" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1588179907541">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1588125950317" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1588179907541" />
     <state x="1429" y="370" key="SettingsEditor" timestamp="1586886872976">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>

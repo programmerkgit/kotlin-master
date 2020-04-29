@@ -9,7 +9,7 @@ open interface B {
 fun main() {
     open class A {
         open fun a() {
-            println("functionsAndLambdas.functions.AunctionsAndLambdas.functions.A.a")
+            println("functionsAndLambdas.functions.AunctionsAndLambdas.functions.moreLanguageConstructs.A.a")
         }
     }
 

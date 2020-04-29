@@ -61,7 +61,7 @@ class MyActivity: AppCOmpatActivity(), Toaster {
 Easy way to implement by passing delegation class.  
   
 ```kotlin
-class functionsAndLambdas.functions.AunctionsAndLambdas.functions.A {
+class functionsAndLambdas.functions.AunctionsAndLambdas.functions.moreLanguageConstructs.A {
     fun functionA() {
     }   
 }
@@ -70,7 +70,7 @@ class classAndObjects.classes.functionsAndLambdas.functions.B {
     }
 }
 
-class C(a: functionsAndLambdas.functions.AunctionsAndLambdas.functions.A, b: classAndObjects.classes.functionsAndLambdas.functions.B): functionsAndLambdas.functions.AunctionsAndLambdas.functions.A by a, classAndObjects.classes.functionsAndLambdas.functions.B by b {
+class C(a: functionsAndLambdas.functions.AunctionsAndLambdas.functions.moreLanguageConstructs.A, b: classAndObjects.classes.functionsAndLambdas.functions.B): functionsAndLambdas.functions.AunctionsAndLambdas.functions.moreLanguageConstructs.A by a, classAndObjects.classes.functionsAndLambdas.functions.B by b {
     fun C() {
         functionA()
         functionB()
@@ -83,7 +83,7 @@ class C(a: functionsAndLambdas.functions.AunctionsAndLambdas.functions.A, b: cla
 Sealed class is restricted classes like Enum. 
 ```kotlin
 sealed class Seal
-class functionsAndLambdas.functions.AunctionsAndLambdas.functions.A: Seal
+class functionsAndLambdas.functions.AunctionsAndLambdas.functions.moreLanguageConstructs.A: Seal
 class classAndObjects.classes.functionsAndLambdas.functions.B: Seal
 
 ```

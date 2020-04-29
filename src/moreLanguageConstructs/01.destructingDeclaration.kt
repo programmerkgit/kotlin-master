@@ -9,8 +9,9 @@ fun main() {
     val (c, d) = function()
 
     println("a:$a b:$b c:$c d:$d")
+    /* destruct entry to t and u */
     mapOf(1 to 2, 2 to 3, 3 to 4, 4 to 5).forEach { (t, u) ->
-        println("$t $u")
+        println("t:$t u:$u")
     }
     for ((key, value) in mapOf(1 to 2, 2 to 3, 3 to 4, 4 to 5)) {
         println("a:$key b:$value")

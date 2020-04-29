@@ -12,7 +12,7 @@ fun main() {
     byteArray[4] = 0x79 // y
     /* 0x80は存在しない(なぜ??) */
     byteArray[5] = 122.toByte() // z
-    byteArray[6] = 0x41  // functionsAndLambdas.functions.AunctionsAndLambdas.functions.A
+    byteArray[6] = 0x41  // functionsAndLambdas.functions.AunctionsAndLambdas.functions.moreLanguageConstructs.A
     byteArray[7] = 0x5A  // Z
     /* appendText: text => toByteArray => write to stream */
     File(path).resolve("files/03.txt").appendBytes(byteArray)

@@ -11,5 +11,5 @@ fun main() {
     /* Int, FloatはNumberを継承している */
     val n: A<Int> = 3 as A<Int>
     var n2: A<Number> = n
-    // val n3: A<Float> = n NG
+    // val n3: moreLanguageConstructs.A<Float> = n NG
 }

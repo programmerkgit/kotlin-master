@@ -26,7 +26,7 @@ private: this symbol is only visible inside the containing class
  * */
 
 /**
- * A constructor can also have a visibility modifier.
+ * moreLanguageConstructs.A constructor can also have a visibility modifier.
  * If you want to place one on the primary constructor
  * (which you might want to do if you have a number of secondary constructors which all
  *  invoke a complicated primary constructor that you don't want to expose), you need to
