@@ -1,24 +1,21 @@
 package functionsAndLambdas.lambdas
 
+fun outerFunction(f: () -> Unit) {
+    return f()
+}
 fun main() {
-
-    /* define reduce on Collection */
-    fun <T, R> Collection<T>.foldA(
-        initial: R,
-        combine: (acc: R, nextElement: T) -> R
-    ): R {
-        var accumulator: R = initial
-        for (el: T in this) {
-            accumulator = combine(accumulator, el)
-        }
-        return accumulator
-    }
-
-    val col = listOf<Int>(1, 2, 3)
-
-    /* pass lambda as argument */
-    val result = col.foldA(10, { acc: Int, el: Int ->
-        acc + el
+    outerFunction({
+        println("lambda can be passed as an argument but not recommanded")
     })
-    println(result)
+    outerFunction {
+        println("function argument can be passed as a trailing lambda expression")
+    }
+    outerFunction {
+        println("to return from lambda you should use label")
+        return@outerFunction
+    }
+    outerFunction(fun() {
+        println("anonymous function literal can be passed as an argument")
+        return
+    })
 }
