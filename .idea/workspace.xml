@@ -2,139 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/00-2.collection-lambda.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/03.contructorArgument.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paizaw/s013.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/MainKt$main$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/MainKt$main$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/MainKt$main$MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/MainKt$main$MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/_00_packagesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/_00_packagesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/_01_empty_classKt$main$EmptyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/_01_empty_classKt$main$EmptyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/_01_empty_classKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/_01_empty_classKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/ShouldBeImportedA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/ShouldBeImportedA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/_00_packageTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/_00_packageTestKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/packageTest/CanBeImported.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/packageTest/CanBeImported.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/packageTest/_00_packageTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/packageTest/_00_packageTestKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/packagesAndImports/kt/_01_defaultImportsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/packagesAndImports/kt/_01_defaultImportsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/packagesAndImports/kt/_02_importsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/packagesAndImports/kt/_02_importsKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_01_returnKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_01_returnKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_02_breakKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_02_breakKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_03_continueKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_03_continueKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_04_labelKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_04_labelKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/B$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/B$DefaultImpls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/Polygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/Polygon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_00_defineClassKt$main$Invoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_00_defineClassKt$main$Invoice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_00_defineClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_00_defineClassKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_02_constructor_init_orderKt$main$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_02_constructor_init_orderKt$main$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_02_constructor_init_orderKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_02_constructor_init_orderKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_03_secondary_constructorKt$main$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_03_secondary_constructorKt$main$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_03_secondary_constructorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_03_secondary_constructorKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_04_init_orderKt$main$InitOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_04_init_orderKt$main$InitOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_04_init_orderKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_04_init_orderKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_05_visiblility_constructorKt$main$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_05_visiblility_constructorKt$main$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_05_visiblility_constructorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_05_visiblility_constructorKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_06_constructor_propertyKt$main$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_06_constructor_propertyKt$main$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_06_constructor_propertyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_06_constructor_propertyKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_07_implicit_primary_constructor_delegationKt$main$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_07_implicit_primary_constructor_delegationKt$main$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_07_implicit_primary_constructor_delegationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_07_implicit_primary_constructor_delegationKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_09_inheritable_classKt$main$BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_09_inheritable_classKt$main$BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_09_inheritable_classKt$main$Derivde.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_09_inheritable_classKt$main$Derivde.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_09_inheritable_classKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_09_inheritable_classKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_10_derived_class_constructorKt$main$BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_10_derived_class_constructorKt$main$BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_10_derived_class_constructorKt$main$Derivde.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_10_derived_class_constructorKt$main$Derivde.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_10_derived_class_constructorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_10_derived_class_constructorKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_11_methods_overrideKt$main$BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_11_methods_overrideKt$main$BaseClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_11_methods_overrideKt$main$Derived.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_11_methods_overrideKt$main$Derived.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_11_methods_overrideKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_11_methods_overrideKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_12_call_outermethods_from_innter_classKt$main$Derived$InnerC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_12_call_outermethods_from_innter_classKt$main$Derived$InnerC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_12_call_outermethods_from_innter_classKt$main$Derived.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_12_call_outermethods_from_innter_classKt$main$Derived.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_12_call_outermethods_from_innter_classKt$main$OuterC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_12_call_outermethods_from_innter_classKt$main$OuterC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_12_call_outermethods_from_innter_classKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_12_call_outermethods_from_innter_classKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_13_duplicated_overridenKt$main$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_13_duplicated_overridenKt$main$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_13_duplicated_overridenKt$main$Derived.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_13_duplicated_overridenKt$main$Derived.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_13_duplicated_overridenKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_13_duplicated_overridenKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_14_orveride_by_abstractKt$main$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_14_orveride_by_abstractKt$main$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_14_orveride_by_abstractKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/_14_orveride_by_abstractKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/L.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/L.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/M.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/M.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/N.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/N.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/_02_outKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/_02_outKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/_03_inKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/generics/_03_inKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/interface/IA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/interface/IA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/interface/L.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/interface/L.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/interface/_01_indexerKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/interface/_01_indexerKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/interface/_02_objectKt$main$n$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/interface/_02_objectKt$main$n$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/interface/_02_objectKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/interface/_02_objectKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/propAndFields/_00_gett_and_settersKt$main$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/propAndFields/_00_gett_and_settersKt$main$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/propAndFields/_00_gett_and_settersKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/propAndFields/_00_gett_and_settersKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/propAndFields/_01_private_setterKt$main$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/propAndFields/_01_private_setterKt$main$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/propAndFields/_01_private_setterKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/propAndFields/_01_private_setterKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/propAndFields/_02_compile_time_constantsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/propAndFields/_02_compile_time_constantsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/collection/map/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/collection/map/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/collection/map/_00_mapInterfaceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/collection/map/_00_mapInterfaceKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/collection/pair/_00_pairKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/collection/pair/_00_pairKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/collection/pair/_01_copyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/collection/pair/_01_copyKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/collection/pair/_02_toListKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/collection/pair/_02_toListKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_00_declarationsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_00_declarationsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_01_member_functionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_01_member_functionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_02_argumentsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_02_argumentsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_03_singleExpressionKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_03_singleExpressionKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_03_singleExpressionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_03_singleExpressionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_04_varargsKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_04_varargsKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_04_varargsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_04_varargsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_00_higherOrderFunctionsKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_00_higherOrderFunctionsKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_00_higherOrderFunctionsKt$main$result$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_00_higherOrderFunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_00_higherOrderFunctionsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$result$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$result$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$square$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt$main$square$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_00_higherOrderFunctionsKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_00_higherOrderFunctionsKt$main$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$HTML.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$HTML.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$subtract$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$subtract$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$subtract$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$sum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$sum$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/A$B$foo$funLit$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/A$B$foo$funLit$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/A$B$foo$funLit2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/A$B$foo$funLit2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/A$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/A$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt$main$Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt$main$Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_01_destructingDeclarationKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_02_typeCastKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_02_typeCastKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_02_typeCastKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_02_typeCastKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_04_equalityKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/moreLanguageConstructs/_04_equalityKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_00_printKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_00_printKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_01_printlnKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_01_printlnKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_02_append_textKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_02_append_textKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_03_bufferedReaderKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_03_bufferedReaderKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_04_readerKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_04_readerKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_05_forEachLineKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_05_forEachLineKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_05_forEachLineKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_05_forEachLineKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_06_readLinesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_06_readLinesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/InternalClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/InternalClassB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/PrivateClassC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/PrivateClassC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/PublicClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/PublicClassA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/_00_topLevelModifierKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/_00_topLevelModifierKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/_01_insideClassModifierKt$main$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/_01_insideClassModifierKt$main$A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/_01_insideClassModifierKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/visibilityModifier/_01_insideClassModifierKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basics/returnsAndJumps/01.return.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/01.return.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basics/returnsAndJumps/04.label.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/04.label.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classAndObjects/generics/02.out.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/generics/02.out.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/00.higherOrderFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/00.higherOrderFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/01.functionTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/01.functionTypes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/02.functionWithReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/02.functionWithReceiver.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,29 +60,49 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/functionsAndLambdas/lambdas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/paiza" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/paizaw" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/classAndObjects/interface" />
+      <recent name="$PROJECT_DIR$/src/functionsAndLambdas/functions" />
+      <recent name="$PROJECT_DIR$/src/stdlib/io" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/paiza" />
       <recent name="$PROJECT_DIR$/src/functionsAndLambdas/lambdas" />
       <recent name="$PROJECT_DIR$/src/basics/returnsAndJumps" />
       <recent name="$PROJECT_DIR$/src/collection/map" />
       <recent name="$PROJECT_DIR$/src/stdlib/io" />
-      <recent name="$PROJECT_DIR$/files" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/classAndObjects/interface" />
-      <recent name="$PROJECT_DIR$/src/functionsAndLambdas/functions" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/stdlib/io" />
-      <recent name="$PROJECT_DIR$/classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._01_functionTypesKt">
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-master" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="paiza.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_00_higherOrderFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
@@ -205,19 +111,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="functionsAndLambdas.lambdas._00_higherOrderFunctionsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_01_destructingDeclarationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="moreLanguageConstructs._01_destructingDeclarationKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -249,14 +142,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_equalityKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_02_functionWithReceiverKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="moreLanguageConstructs._04_equalityKt" />
+      <option name="MAIN_CLASS_NAME" value="functionsAndLambdas.lambdas._02_functionWithReceiverKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -264,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin._02_functionWithReceiverKt" />
         <item itemvalue="Kotlin._01_functionTypesKt" />
         <item itemvalue="Kotlin._00_higherOrderFunctionsKt" />
         <item itemvalue="Kotlin._01_genericsKt" />
-        <item itemvalue="Kotlin._04_equalityKt" />
-        <item itemvalue="Kotlin._01_destructingDeclarationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +200,11 @@
       <workItem from="1588260594977" duration="39000" />
       <workItem from="1588639919306" duration="354000" />
       <workItem from="1588640513375" duration="110000" />
-      <workItem from="1602994478184" duration="1423000" />
+      <workItem from="1602994478184" duration="4255000" />
+      <workItem from="1603446059993" duration="11000" />
+      <workItem from="1603496384783" duration="210000" />
+      <workItem from="1603775770155" duration="16000" />
+      <workItem from="1610465896443" duration="5404000" />
     </task>
     <servers />
   </component>
@@ -315,25 +212,58 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="400" key="GridCell.Tab.0.bottom" timestamp="1602995968890">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="1238" height="397" key="GridCell.Tab.0.bottom" timestamp="1610471071641">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="400" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1602995968890" />
-    <state width="1238" height="400" key="GridCell.Tab.0.center" timestamp="1602995968889">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="1238" height="400" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1603000583293" />
+    <state width="1238" height="397" key="GridCell.Tab.0.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1610471071641" />
+    <state width="1238" height="397" key="GridCell.Tab.0.center" timestamp="1610471071641">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="400" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1602995968889" />
-    <state width="1238" height="400" key="GridCell.Tab.0.left" timestamp="1602995968888">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="1238" height="400" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1603000583292" />
+    <state width="1238" height="397" key="GridCell.Tab.0.center/0.25.2560.1415@0.25.2560.1415" timestamp="1610471071641" />
+    <state width="1238" height="397" key="GridCell.Tab.0.left" timestamp="1610471071640">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="400" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1602995968888" />
-    <state width="1238" height="400" key="GridCell.Tab.0.right" timestamp="1602995968889">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="1238" height="400" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1603000583292" />
+    <state width="1238" height="397" key="GridCell.Tab.0.left/0.25.2560.1415@0.25.2560.1415" timestamp="1610471071640" />
+    <state width="1238" height="397" key="GridCell.Tab.0.right" timestamp="1610471071641">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="400" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1602995968889" />
-    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1602994708937">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="1238" height="400" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1603000583293" />
+    <state width="1238" height="397" key="GridCell.Tab.0.right/0.25.2560.1415@0.25.2560.1415" timestamp="1610471071641" />
+    <state width="1238" height="489" key="GridCell.Tab.1.bottom" timestamp="1610469438372">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1238" height="489" key="GridCell.Tab.1.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1610469438372" />
+    <state width="1238" height="489" key="GridCell.Tab.1.center" timestamp="1610469438371">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1238" height="489" key="GridCell.Tab.1.center/0.25.2560.1415@0.25.2560.1415" timestamp="1610469438371" />
+    <state width="1238" height="489" key="GridCell.Tab.1.left" timestamp="1610469438371">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1238" height="489" key="GridCell.Tab.1.left/0.25.2560.1415@0.25.2560.1415" timestamp="1610469438371" />
+    <state width="1238" height="489" key="GridCell.Tab.1.right" timestamp="1610469438371">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1238" height="489" key="GridCell.Tab.1.right/0.25.2560.1415@0.25.2560.1415" timestamp="1610469438371" />
+    <state x="1711" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610467045907">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="1711" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.2560.1415@0.25.2560.1415" timestamp="1610467045907" />
+    <state x="1585" y="350" width="670" height="676" key="search.everywhere.popup" timestamp="1610466629527">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
     <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1602994708937" />
+    <state x="1585" y="350" width="670" height="676" key="search.everywhere.popup/0.25.2560.1415@0.25.2560.1415" timestamp="1610466629527" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="args[0]" language="kotlin" />
+        <watch expression="length" language="kotlin" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

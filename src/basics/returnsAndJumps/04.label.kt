@@ -15,5 +15,5 @@ fun main() {
         }
         println("end outer loop")
     }
-    println("end moreLanguageConstructs.moreLanguageConstructs.moreLanguageConstructs.reference.classAndObjects.generics.collection.operations.main")
+    println("end moreLanguageConstructs.moreLanguageConstructs.moreLanguageConstructs.reference.classAndObjects.generics.collection.operations.paiza.paizaw.main")
 }

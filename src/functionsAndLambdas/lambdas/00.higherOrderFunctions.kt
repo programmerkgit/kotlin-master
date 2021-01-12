@@ -3,6 +3,7 @@ package functionsAndLambdas.lambdas
 fun outerFunction(f: () -> Unit) {
     return f()
 }
+
 fun main() {
     outerFunction({
         println("lambda can be passed as an argument but not recommanded")
