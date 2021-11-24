@@ -20,7 +20,7 @@ fun main() {
     }
 
     listOf(1, 2).forEach { _ ->
-        return // return from moreLanguageConstructs.moreLanguageConstructs.moreLanguageConstructs.reference.classAndObjects.generics.collection.operations.paiza.paizaw.main because lambed is not function.
+        return // return from moreLanguageConstructs.moreLanguageConstructs.moreLanguageConstructs.reference.classAndObjects.generics.collection.operations.paiza.paizaw.basics.property.main because lambed is not function.
     }
-    println("end of moreLanguageConstructs.moreLanguageConstructs.moreLanguageConstructs.reference.classAndObjects.generics.collection.operations.paiza.paizaw.main")
+    println("end of moreLanguageConstructs.moreLanguageConstructs.moreLanguageConstructs.reference.classAndObjects.generics.collection.operations.paiza.paizaw.basics.property.main")
 }

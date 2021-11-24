@@ -2,25 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/03.contructorArgument.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/paizaw/s013.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paizaw/s002.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_01_returnKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_01_returnKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_04_labelKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_04_labelKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_00_higherOrderFunctionsKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_00_higherOrderFunctionsKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/collection/pair/_02_toListKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/collection/pair/_02_toListKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_04_varargsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_04_varargsKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$HTML.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$HTML.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$subtract$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$sum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt$main$sum$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_02_functionWithReceiverKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_06_readLinesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_06_readLinesKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basics/returnsAndJumps/01.return.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/01.return.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basics/returnsAndJumps/04.label.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/04.label.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/00.higherOrderFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/00.higherOrderFunctions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/02.functionWithReceiver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionsAndLambdas/lambdas/02.functionWithReceiver.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +39,10 @@
     <executables />
   </component>
   <component name="KotlinMultiplatform">
-    <executables />
+    <allAvailableExecutables />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ra9arc6t" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -60,7 +58,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/paiza" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/paizaw" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,8 +71,16 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/paizaw" />
+      <recent name="$PROJECT_DIR$/src/paiza" />
+      <recent name="$PROJECT_DIR$/src/functionsAndLambdas/lambdas" />
+      <recent name="$PROJECT_DIR$/src/basics/returnsAndJumps" />
+      <recent name="$PROJECT_DIR$/src/collection/map" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/paizaw" />
       <recent name="$PROJECT_DIR$/src" />
@@ -81,15 +88,21 @@
       <recent name="$PROJECT_DIR$/src/functionsAndLambdas/functions" />
       <recent name="$PROJECT_DIR$/src/stdlib/io" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/paiza" />
-      <recent name="$PROJECT_DIR$/src/functionsAndLambdas/lambdas" />
-      <recent name="$PROJECT_DIR$/src/basics/returnsAndJumps" />
-      <recent name="$PROJECT_DIR$/src/collection/map" />
-      <recent name="$PROJECT_DIR$/src/stdlib/io" />
-    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt">
+  <component name="RunManager" selected="Application.MemberPropertiesKt">
+    <configuration name="Gray_codeKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-master" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="leatCode.Gray_codeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
@@ -97,33 +110,33 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="paiza.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_00_higherOrderFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="MemberPropertiesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="functionsAndLambdas.lambdas._00_higherOrderFunctionsKt" />
+      <option name="MAIN_CLASS_NAME" value="basics.property.MemberPropertiesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01_functionTypesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="_00_packageTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="kotlin-master" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="functionsAndLambdas.lambdas._01_functionTypesKt" />
+      <option name="MAIN_CLASS_NAME" value="basics._00_packageTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,26 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_functionWithReceiverKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="functionsAndLambdas.lambdas._02_functionWithReceiverKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt" />
-        <item itemvalue="Kotlin._02_functionWithReceiverKt" />
-        <item itemvalue="Kotlin._01_functionTypesKt" />
-        <item itemvalue="Kotlin._00_higherOrderFunctionsKt" />
-        <item itemvalue="Kotlin._01_genericsKt" />
+        <item itemvalue="Application.MemberPropertiesKt" />
+        <item itemvalue="Application.MainKt" />
+        <item itemvalue="Application._01_genericsKt" />
+        <item itemvalue="Application._00_packageTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +203,15 @@
       <workItem from="1603446059993" duration="11000" />
       <workItem from="1603496384783" duration="210000" />
       <workItem from="1603775770155" duration="16000" />
-      <workItem from="1610465896443" duration="5404000" />
+      <workItem from="1610465896443" duration="7153000" />
+      <workItem from="1624905006277" duration="1048000" />
+      <workItem from="1625144260842" duration="658000" />
+      <workItem from="1625145477865" duration="8772000" />
+      <workItem from="1625444475575" duration="3162000" />
+      <workItem from="1626179895506" duration="61000" />
+      <workItem from="1629121358937" duration="2947000" />
+      <workItem from="1629645971582" duration="26162000" />
+      <workItem from="1629804490900" duration="2709000" />
     </task>
     <servers />
   </component>
@@ -212,57 +219,55 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="397" key="GridCell.Tab.0.bottom" timestamp="1610471071641">
+    <state x="1366" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1629677322624">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="400" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1603000583293" />
-    <state width="1238" height="397" key="GridCell.Tab.0.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1610471071641" />
-    <state width="1238" height="397" key="GridCell.Tab.0.center" timestamp="1610471071641">
+    <state x="1366" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.2560.1415@0.25.2560.1415" timestamp="1629677322624" />
+    <state width="1238" height="397" key="GridCell.Tab.0.bottom" timestamp="1629161242349">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="400" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1603000583292" />
-    <state width="1238" height="397" key="GridCell.Tab.0.center/0.25.2560.1415@0.25.2560.1415" timestamp="1610471071641" />
-    <state width="1238" height="397" key="GridCell.Tab.0.left" timestamp="1610471071640">
+    <state width="1238" height="397" key="GridCell.Tab.0.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242349" />
+    <state width="1238" height="397" key="GridCell.Tab.0.center" timestamp="1629161242348">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="400" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1603000583292" />
-    <state width="1238" height="397" key="GridCell.Tab.0.left/0.25.2560.1415@0.25.2560.1415" timestamp="1610471071640" />
-    <state width="1238" height="397" key="GridCell.Tab.0.right" timestamp="1610471071641">
+    <state width="1238" height="397" key="GridCell.Tab.0.center/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242348" />
+    <state width="1238" height="397" key="GridCell.Tab.0.left" timestamp="1629161242348">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="400" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1603000583293" />
-    <state width="1238" height="397" key="GridCell.Tab.0.right/0.25.2560.1415@0.25.2560.1415" timestamp="1610471071641" />
-    <state width="1238" height="489" key="GridCell.Tab.1.bottom" timestamp="1610469438372">
+    <state width="1238" height="397" key="GridCell.Tab.0.left/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242348" />
+    <state width="1238" height="397" key="GridCell.Tab.0.right" timestamp="1629161242349">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="489" key="GridCell.Tab.1.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1610469438372" />
-    <state width="1238" height="489" key="GridCell.Tab.1.center" timestamp="1610469438371">
+    <state width="1238" height="397" key="GridCell.Tab.0.right/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242349" />
+    <state width="1238" height="489" key="GridCell.Tab.1.bottom" timestamp="1629161242345">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="489" key="GridCell.Tab.1.center/0.25.2560.1415@0.25.2560.1415" timestamp="1610469438371" />
-    <state width="1238" height="489" key="GridCell.Tab.1.left" timestamp="1610469438371">
+    <state width="1238" height="489" key="GridCell.Tab.1.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242345" />
+    <state width="1238" height="489" key="GridCell.Tab.1.center" timestamp="1629161242345">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="489" key="GridCell.Tab.1.left/0.25.2560.1415@0.25.2560.1415" timestamp="1610469438371" />
-    <state width="1238" height="489" key="GridCell.Tab.1.right" timestamp="1610469438371">
+    <state width="1238" height="489" key="GridCell.Tab.1.center/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242345" />
+    <state width="1238" height="489" key="GridCell.Tab.1.left" timestamp="1629161242344">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state width="1238" height="489" key="GridCell.Tab.1.right/0.25.2560.1415@0.25.2560.1415" timestamp="1610469438371" />
-    <state x="1711" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610467045907">
+    <state width="1238" height="489" key="GridCell.Tab.1.left/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242344" />
+    <state width="1238" height="489" key="GridCell.Tab.1.right" timestamp="1629161242345">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state x="1711" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.2560.1415@0.25.2560.1415" timestamp="1610467045907" />
-    <state x="1585" y="350" width="670" height="676" key="search.everywhere.popup" timestamp="1610466629527">
+    <state width="1238" height="489" key="GridCell.Tab.1.right/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242345" />
+    <state x="1688" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629674839800">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state x="1585" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1602994708937" />
-    <state x="1585" y="350" width="670" height="676" key="search.everywhere.popup/0.25.2560.1415@0.25.2560.1415" timestamp="1610466629527" />
+    <state x="1688" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.2560.1415@0.25.2560.1415" timestamp="1629674839800" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="JetRunConfigurationType">
         <watch expression="args[0]" language="kotlin" />
         <watch expression="length" language="kotlin" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="nameToProperty[&quot;a&quot;].setter" language="kotlin" />
       </configuration>
     </watches-manager>
   </component>
