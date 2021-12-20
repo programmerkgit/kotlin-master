@@ -2,38 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/reflection/reflection.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S002最短距離を測る.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/LocalDateTimeKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/MainKt$main$B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/MainKt$main$MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/RoadMap$Walk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/RoadMap$goal$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/RoadMap$start$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/RoadMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/S002Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/a.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/History.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw/S013Kt$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw/S013Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw2/S035Kt$main$Group.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw2/S035Kt$main$Groups.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw2/S035Kt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classAndObjects/classes/a.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leatCode/gray-code.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stdlib/date/localDateTime.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/reflection/ReflectionKt$classReference$MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/reflection/ReflectionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/reflection/ReflectionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/arrays/01.primitive-array.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/booleans/00.bool-operations.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/characters/01.char-toint.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/02.boxing.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/04.explicit-conversion.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/05.conversion.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic-types/numberes/07.comparision.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reference/keywordsAndOperators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/reference/keywordsAndOperators.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/reflection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/reflection.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,21 +91,14 @@
       <recent name="$PROJECT_DIR$/src/collection/map" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/paizaw" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/paizaw" />
       <recent name="$PROJECT_DIR$/src/classAndObjects/interface" />
       <recent name="$PROJECT_DIR$/src/functionsAndLambdas/functions" />
       <recent name="$PROJECT_DIR$/src/stdlib/io" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._00_printKt">
-    <configuration name="Gray_codeKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leatCode.Gray_codeKt" />
-      <module name="kotlin-master" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.ReflectionKt">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="kotlin-master" />
@@ -138,6 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReflectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reflection.ReflectionKt" />
+      <module name="kotlin-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_00_printKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stdlib.io._00_printKt" />
       <module name="kotlin-master" />
@@ -145,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01_genericsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classAndObjects.generics._01_genericsKt" />
+    <configuration name="_01_constructorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_constructorsKt" />
       <module name="kotlin-master" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -154,6 +136,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ReflectionKt" />
+        <item itemvalue="Kotlin._01_constructorsKt" />
         <item itemvalue="Kotlin._00_printKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
@@ -211,6 +195,7 @@
       <workItem from="1637770363537" duration="617000" />
       <workItem from="1639999379135" duration="824000" />
       <workItem from="1640000239189" duration="18000" />
+      <workItem from="1640000319149" duration="3297000" />
     </task>
     <servers />
   </component>
