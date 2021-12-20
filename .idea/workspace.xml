@@ -2,8 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reflection/reflection.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S002最短距離を測る.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/LocalDateTimeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/MainKt$main$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/MainKt$main$MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/RoadMap$Walk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/RoadMap$goal$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/RoadMap$start$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/RoadMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/S002Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/classAndObjects/classes/a.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/History.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw/S013Kt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw/S013Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw2/S035Kt$main$Group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw2/S035Kt$main$Groups.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paizaw2/S035Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classAndObjects/classes/a.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leatCode/gray-code.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stdlib/date/localDateTime.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +47,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -35,6 +66,9 @@
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="ra9arc6t" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -82,7 +116,7 @@
       <recent name="$PROJECT_DIR$/src/stdlib/io" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt">
+  <component name="RunManager" selected="Kotlin._00_printKt">
     <configuration name="Gray_codeKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leatCode.Gray_codeKt" />
       <module name="kotlin-master" />
@@ -104,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_00_packageTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics._00_packageTestKt" />
+    <configuration name="_00_printKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stdlib.io._00_printKt" />
       <module name="kotlin-master" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,6 +154,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._00_printKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
@@ -174,53 +209,24 @@
       <workItem from="1629645971582" duration="26162000" />
       <workItem from="1629804490900" duration="2709000" />
       <workItem from="1637770363537" duration="617000" />
+      <workItem from="1639999379135" duration="824000" />
+      <workItem from="1640000239189" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1366" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1629677322624">
-      <screen x="0" y="25" width="2560" height="1415" />
-    </state>
-    <state x="1366" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.2560.1415@0.25.2560.1415" timestamp="1629677322624" />
-    <state width="1238" height="397" key="GridCell.Tab.0.bottom" timestamp="1629161242349">
-      <screen x="0" y="25" width="2560" height="1415" />
-    </state>
-    <state width="1238" height="397" key="GridCell.Tab.0.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242349" />
-    <state width="1238" height="397" key="GridCell.Tab.0.center" timestamp="1629161242348">
-      <screen x="0" y="25" width="2560" height="1415" />
-    </state>
-    <state width="1238" height="397" key="GridCell.Tab.0.center/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242348" />
-    <state width="1238" height="397" key="GridCell.Tab.0.left" timestamp="1629161242348">
-      <screen x="0" y="25" width="2560" height="1415" />
-    </state>
-    <state width="1238" height="397" key="GridCell.Tab.0.left/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242348" />
-    <state width="1238" height="397" key="GridCell.Tab.0.right" timestamp="1629161242349">
-      <screen x="0" y="25" width="2560" height="1415" />
-    </state>
-    <state width="1238" height="397" key="GridCell.Tab.0.right/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242349" />
-    <state width="1238" height="489" key="GridCell.Tab.1.bottom" timestamp="1629161242345">
-      <screen x="0" y="25" width="2560" height="1415" />
-    </state>
-    <state width="1238" height="489" key="GridCell.Tab.1.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242345" />
-    <state width="1238" height="489" key="GridCell.Tab.1.center" timestamp="1629161242345">
-      <screen x="0" y="25" width="2560" height="1415" />
-    </state>
-    <state width="1238" height="489" key="GridCell.Tab.1.center/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242345" />
-    <state width="1238" height="489" key="GridCell.Tab.1.left" timestamp="1629161242344">
-      <screen x="0" y="25" width="2560" height="1415" />
-    </state>
-    <state width="1238" height="489" key="GridCell.Tab.1.left/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242344" />
-    <state width="1238" height="489" key="GridCell.Tab.1.right" timestamp="1629161242345">
-      <screen x="0" y="25" width="2560" height="1415" />
-    </state>
-    <state width="1238" height="489" key="GridCell.Tab.1.right/0.25.2560.1415@0.25.2560.1415" timestamp="1629161242345" />
-    <state x="1688" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1629674839800">
-      <screen x="0" y="25" width="2560" height="1415" />
-    </state>
-    <state x="1688" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.2560.1415@0.25.2560.1415" timestamp="1629674839800" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
