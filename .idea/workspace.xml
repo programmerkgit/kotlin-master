@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5716b0f1-7956-48c9-b670-3c6472d4fe11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/paizaw/s002.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/META-INF/kotlin-master.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_01_returnKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_01_returnKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_04_labelKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/basics/returnsAndJumps/_04_labelKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/collection/pair/_02_toListKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/collection/pair/_02_toListKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_04_varargsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/functions/_04_varargsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/functionsAndLambdas/lambdas/_01_functionTypesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/paiza/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_06_readLinesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-master/stdlib/io/_06_readLinesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/returnsAndJumps/01.return.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/01.return.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/returnsAndJumps/04.label.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/returnsAndJumps/04.label.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classAndObjects/propAndFields/03.late-initialized-properties.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +29,15 @@
   <component name="KotlinMultiplatform">
     <allAvailableExecutables />
   </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="gke_enterchain_asia-northeast1-a_enter-chain" />
+    <option name="namespace" value="default" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="ra9arc6t" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1Z5C5kaWUbxZgFG6pDu3ZwSCyKu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,6 +64,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -89,81 +82,49 @@
       <recent name="$PROJECT_DIR$/src/stdlib/io" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MemberPropertiesKt">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="Gray_codeKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="leatCode.Gray_codeKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-master" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="MainKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-master" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MemberPropertiesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="basics.property.MemberPropertiesKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-master" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="_00_packageTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="basics._00_packageTestKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-master" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="_01_genericsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-master" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="classAndObjects.generics._01_genericsKt" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="kotlin-master" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MemberPropertiesKt" />
-        <item itemvalue="Application.MainKt" />
-        <item itemvalue="Application._01_genericsKt" />
-        <item itemvalue="Application._00_packageTestKt" />
+        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -212,11 +173,12 @@
       <workItem from="1629121358937" duration="2947000" />
       <workItem from="1629645971582" duration="26162000" />
       <workItem from="1629804490900" duration="2709000" />
+      <workItem from="1637770363537" duration="617000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1366" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1629677322624">
